@@ -7,7 +7,7 @@ Join me in celebrating **"Hey Day"** at **Auburn Univeristy** on this **Wednedsa
 #### This will promt users to enter their name. Once users write their name down, they will get a personalized greetings!
 #### echo "Hey $name! Let's celebrate Hey Day together!"
 #### echo "War Eagle, $name!"
-#### This will give invitation statement for the users with their name on it!
+#### Both "echo" will print invitation statement for the users with their name on it!
 # Want to run this script?
 1. Make a clone of this repository **[here](https://github.com/AUCompBio-Fall24/Hey-Day-Brohee.git)**.
 2. To run this script : ./heyday.sh
