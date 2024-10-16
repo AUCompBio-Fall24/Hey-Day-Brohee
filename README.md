@@ -5,6 +5,7 @@ Join me in celebrating **"Hey Day"** at **Auburn Univeristy** on this **Wednedsa
 # Command to run for this script
 read -p echo
 # Want to run this script?
-To run this script : ./heyday.sh
-To execute : chmod +x heyday.sh
+1. Make a clone of this repository.
+2. To run this script : ./heyday.sh
+3. To execute : chmod +x heyday.sh
 # URL
