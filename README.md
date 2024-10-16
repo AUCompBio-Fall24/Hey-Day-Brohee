@@ -7,5 +7,5 @@ read -p echo
 # Want to run this script?
 1. Make a clone of this repository.
 2. To run this script : ./heyday.sh
-3. To execute : chmod +x heyday.sh
+3. To make this script executable(if needed) : chmod +x heyday.sh
 # URL
