@@ -5,7 +5,7 @@ Join me in celebrating **"Hey Day"** at **Auburn Univeristy** on this **Wednedsa
 # Commands to run for this script
 read -p echo
 # Want to run this script?
-1. Make a clone of this repository [here] (https://github.com/AUCompBio-Fall24/Hey-Day-Brohee.git).
+1. Make a clone of this repository **[here](https://github.com/AUCompBio-Fall24/Hey-Day-Brohee.git)**.
 2. To run this script : ./heyday.sh
 3. To make this script executable(if needed) : chmod +x heyday.sh
 # URL
